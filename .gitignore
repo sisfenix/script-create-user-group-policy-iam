@@ -1,0 +1,7 @@
+temp/*
+*.swp
+log_*.txt
+error_*.txt
+credencial*.txt
+script*prd.sh
+script*hml.sh
